@@ -30,6 +30,7 @@ Clone the repository:
 
 
 git clone https:github.com/Usman23225/Hotel-booking.git
+
 cd hotel-booking-website
 
 Install dependencies:
