@@ -1,5 +1,7 @@
 
-Hotel Booking Website Readme
+Hotel Booking Website 
+
+Readme
 Welcome to the Hotel Booking Website project! This web application is designed to simplify the process of booking hotel rooms for users. Whether you're a traveler looking for accommodation or a hotel owner managing bookings, this website aims to provide a seamless and user-friendly experience.
 
 Features
